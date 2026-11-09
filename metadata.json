@@ -1,0 +1,6 @@
+{
+  "name": "Kanji Michi (漢字道) — Japanese Learning Platform",
+  "description": "Platform belajar bahasa Jepang bertahap untuk pembelajar Indonesia dari pemula hingga JLPT N3 dan komunikasi kerja di Jepang.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
